@@ -1,0 +1,51 @@
+html {
+  font-size: 50px;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-size: 1rem;
+  background: #ffff00;
+  min-width: 13rem;
+  position: relative;
+}
+
+h1 {
+  font-size: 1rem;
+  font-weight: normal;
+}
+
+h1, p, ul {
+  margin: 0;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.white {
+  background: white;
+  padding: .5rem
+}
+
+.blink {
+  padding: .5rem
+}
+
+.video {
+  position: absolute;
+  top: 180px;
+  left: 220px;
+}
+
+.vanya {
+  position: absolute;
+  font-size: 14px;
+  left: -.5rem;
+  bottom: .5rem;
+  text-align: right;
+  width: 100%;
+  min-width: 15rem;
+}
