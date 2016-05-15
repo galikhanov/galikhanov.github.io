@@ -1,7 +1,6 @@
 (function () {
   $(document).ready(function() {
     changeSize();
-    changeColor();
 
     $('.blink').hover(changeColor);
   });
